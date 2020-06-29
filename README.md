@@ -37,7 +37,7 @@ which includes the flow on how i gathered, cleaned and analyzed data. Markdown c
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/74a6e111df41).
+The main findings of the code can be found at the post available [here](https://medium.com/@mburakunuvar/a-quick-look-at-covid-19-74a6e111df41).
 
 ## Data Sources:<a name="data"></a>
 
